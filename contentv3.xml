@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="1" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="Un ordenador a su medida"></unicode>
+  <unicode value="Un ordenador a la carta"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addExeLink"></string>
@@ -1053,6 +1053,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;Presentación y exposición con Genially (en grupos de 3 o 4 componentes)(Usaremos el Creador de grupos de Classdojo). Para crearos una cuenta de Genially podéis usar una cuenta personal, no la de educaand y trabajar en grupo compartiendo la presentación que creéis entre todos.&lt;br /&gt;Posteriormente tendréis que exponer el trabajo en clase. Se os asignará un día.&lt;br /&gt;Límite de 20 diapositivas (&lt;a href=&quot;https://es.wikipedia.org/wiki/PechaKucha&quot;&gt;pechakucha&lt;/a&gt;).&lt;br /&gt;Debéis obtener toda la información, ordenarla, elegir los textos e imágenes y, cuando lo tengáis todo decidido empezar a realizar la presentación. Recuerda adaptarte a las dimensiones máximas y repartir bien el trabajo entre los componentes del grupo.&lt;br /&gt;Podéis usar la carpeta de Drive del grupo para subir todo aquello que os parezca interesante y luego decidir en grupo qué usáis y cómo para vuestra presentación.&lt;/p&gt;
 &lt;p&gt;Aquí tenéis un videotutorial de &lt;a href=&quot;https://genially.com/es&quot;&gt;Genially&lt;/a&gt; por si lo necesitáis:&lt;/p&gt;
@@ -1192,6 +1194,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Recuerda entregar también el enlace a la ficha correspondiente de tu Diario de Aprendizaje, que debes rellenar siguiendo los pasos establecidos. Es decir, primero los pasos 1 y 2 antes de empezar, el paso 3 mientras realizas el reto y el paso 4 cuando termines. El nombre debe ser apropiado para que se guarde en tu carpeta ordenadamente.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3588,6 +3592,8 @@
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Recuerda entregar también el enlace a la ficha correspondiente de tu Diario de Aprendizaje, que debes rellenar siguiendo los pasos establecidos. Es decir, primero los pasos 1 y 2 antes de empezar, el paso 3 mientras realizas el reto y el paso 4 cuando termines. El nombre debe ser apropiado para que se guarde en tu carpeta ordenadamente.&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -4582,6 +4588,8 @@
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Recuerda entregar también el enlace a la ficha correspondiente de tu Diario de Aprendizaje, que debes rellenar siguiendo los pasos establecidos. Es decir, primero los pasos 1 y 2 antes de empezar, el paso 3 mientras realizas el reto y el paso 4 cuando termines. El nombre debe ser apropiado para que se guarde en tu carpeta ordenadamente.&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -5351,6 +5359,8 @@
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Recuerda entregar también el enlace a la ficha correspondiente de tu Diario de Aprendizaje, que debes rellenar siguiendo los pasos establecidos. Es decir, primero los pasos 1 y 2 antes de empezar, el paso 3 mientras realizas el reto y el paso 4 cuando termines. El nombre debe ser apropiado para que se guarde en tu carpeta ordenadamente.&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -6148,6 +6158,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Comprueba que has realizado todas las tareas.&lt;/p&gt;
 &lt;p&gt;Tu profe comprobará que:&lt;/p&gt;
@@ -6511,6 +6523,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;Este recurso educativo abierto tiene licencia CC BY-SA, por lo se puede utilizar, descargar, modificar y adaptar libremente, siempre que se reconozca la autoría del mismo y, en caso de modificarlo y publicar una nueva versión, se licencie con la misma licencia CC BY-SA. &lt;/p&gt;
 &lt;p&gt;Todo el material utilizado para la elaboración del recurso deriva de la obra original citada en los Créditos o proviene del banco de recursos del departamento de Tecnología del IES Astaroth o pertenecen a bancos de recursos libres tales como FreePik, Pexels, Pixabay o Flaticon, tal como se indican en cada una de ellas.&lt;/p&gt;
@@ -6980,7 +6994,7 @@
              <string role="key" value="language"></string>
              <string value="es"></string>
              <string role="key" value="valueOf_"></string>
-             <string value="CONOCIMIENTO PREVIO: El alumnado tiene algunas nociones previas de Hardware y Software porque lo ha visto en la materia de Tecnolog\xc3\xada y Digitalizaci\xc3\xb3n en 2\xc2\xba y 3\xc2\xba de ESO. Determinado alumnado puede haber cursado tambi\xc3\xa9n Computaci\xc3\xb3n y Rob\xc3\xb3tica en cursos anteriores, lo que le permitir\xc3\xada entender mejor los conocimientos aqu\xc3\xad presentados."></string>
+             <unicode value="CONOCIMIENTO PREVIO: El alumnado tiene algunas nociones previas de Hardware y Software porque lo ha visto en la materia de Tecnología y Digitalización en 2º y 3º de ESO. Determinado alumnado puede haber cursado también Computación y Robótica en cursos anteriores, lo que le permitiría entender mejor los conocimientos aquí presentados."></unicode>
             </dictionary>
            </instance>
           </list>
@@ -6997,7 +7011,7 @@
              <string role="key" value="language"></string>
              <string value="es"></string>
              <string role="key" value="valueOf_"></string>
-             <string value="OBJETIVOS: Esta situaci\xc3\xb3n de aprendizaje pretende que el alumnado adquiera las competencias necesarias para poder elegir, comparar, analizar, seleccionar y comprar online todo lo necesario para el montaje e instalaci\xc3\xb3n de los componentes y sistemas operativos necesarios y m\xc3\xa1s adecuados para dotar de un ordenador a ciertos perfiles de personas preestablecidos."></string>
+             <unicode value="OBJETIVOS: Esta situación de aprendizaje pretende que el alumnado adquiera las competencias necesarias para poder elegir, comparar, analizar, seleccionar y comprar online todo lo necesario para el montaje e instalación de los componentes y sistemas operativos necesarios y más adecuados para dotar de un ordenador a ciertos perfiles de personas preestablecidos."></unicode>
             </dictionary>
            </instance>
           </list>
@@ -7213,6 +7227,14 @@
         <none></none>
         <string role="key" value="string"></string>
         <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Un ordenador a la carta"></string>
+          </dictionary>
+         </instance>
          <instance class="exe.engine.lom.lomsubs.LangStringSub">
           <dictionary>
            <string role="key" value="language"></string>
@@ -7753,7 +7775,7 @@
              <string role="key" value="language"></string>
              <string value="es"></string>
              <string role="key" value="valueOf_"></string>
-             <string value="CONOCIMIENTO PREVIO: El alumnado tiene algunas nociones previas de Hardware y Software porque lo ha visto en la materia de Tecnolog\xc3\xada y Digitalizaci\xc3\xb3n en 2\xc2\xba y 3\xc2\xba de ESO. Determinado alumnado puede haber cursado tambi\xc3\xa9n Computaci\xc3\xb3n y Rob\xc3\xb3tica en cursos anteriores, lo que le permitir\xc3\xada entender mejor los conocimientos aqu\xc3\xad presentados."></string>
+             <unicode value="CONOCIMIENTO PREVIO: El alumnado tiene algunas nociones previas de Hardware y Software porque lo ha visto en la materia de Tecnología y Digitalización en 2º y 3º de ESO. Determinado alumnado puede haber cursado también Computación y Robótica en cursos anteriores, lo que le permitiría entender mejor los conocimientos aquí presentados."></unicode>
             </dictionary>
            </instance>
           </list>
@@ -7770,7 +7792,7 @@
              <string role="key" value="language"></string>
              <string value="es"></string>
              <string role="key" value="valueOf_"></string>
-             <string value="OBJETIVOS: Esta situaci\xc3\xb3n de aprendizaje pretende que el alumnado adquiera las competencias necesarias para poder elegir, comparar, analizar, seleccionar y comprar online todo lo necesario para el montaje e instalaci\xc3\xb3n de los componentes y sistemas operativos necesarios y m\xc3\xa1s adecuados para dotar de un ordenador a ciertos perfiles de personas preestablecidos."></string>
+             <unicode value="OBJETIVOS: Esta situación de aprendizaje pretende que el alumnado adquiera las competencias necesarias para poder elegir, comparar, analizar, seleccionar y comprar online todo lo necesario para el montaje e instalación de los componentes y sistemas operativos necesarios y más adecuados para dotar de un ordenador a ciertos perfiles de personas preestablecidos."></unicode>
             </dictionary>
            </instance>
           </list>
@@ -8108,6 +8130,14 @@
         <none></none>
         <string role="key" value="string"></string>
         <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Un ordenador a la carta"></string>
+          </dictionary>
+         </instance>
          <instance class="exe.engine.lom.lomsubs.LangStringSub">
           <dictionary>
            <string role="key" value="language"></string>
